@@ -13,4 +13,7 @@ void main()
   print(mul);
   print(div);
   print(remainder);
+
+  final result=y ~/ x; // '~' is used to convert dloat value to integer
+  print(result);
 }
