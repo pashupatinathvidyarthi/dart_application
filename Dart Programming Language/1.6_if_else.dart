@@ -5,7 +5,7 @@ void main()
   // temp between 19 and 24 -> normal
   // tem between 25 and 30 -> hot
   // temp > 30 -> very hot
-  final temp=29.4;
+  final temp=33.4;
 
   if(temp<10)
   {
