@@ -16,4 +16,14 @@ void main()
 
   final result=y ~/ x; // '~' is used to convert dloat value to integer
   print(result);
+
+
+  print(x>y);
+  print(x<y);
+  print(x>=y);
+  print(x<=y);
+  print(x==y);
+  print(x!=y);
+
+  print(x>y && y<x);
 }
